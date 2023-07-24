@@ -1,5 +1,4 @@
-,Mean/%,Satisfaction/Car Access
-Urban,6.016321274,Satisfaction With Transport System
-Rural,5.483607831,Satisfaction With Transport System
-Urban,76.58440974,Access to Car
-Rural,85.95795921,Access to Car
+Urban/Rural,Mean Satisfaction,% with Car Access
+Urban,6.016321274,76.58440974
+Rural,5.483607831,85.95795921
+

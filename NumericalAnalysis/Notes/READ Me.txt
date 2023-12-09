@@ -1,0 +1,4 @@
+The notes folder will contain program files and pdfs associated with the module Numerical Analysis
+
+Majority of the files will be from specific units on the course, as well as formative tasks.
+The folder will be used as evidence for my learning. 

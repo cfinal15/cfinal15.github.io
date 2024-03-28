@@ -1,0 +1,1138 @@
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Required meta tags -->
+    <meta name="description" content="Michaels Property are one of the most successful letting and estate agents in Colchester. Fantastic portfolio of property to rent or buy. Contact us today." /><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" /><meta name="google-site-verification" content="bR3bgE76LPwtbcwUok7Y40PkudgB4a-abxakghzmhzQ" />
+    <!-- Page specific meta tags -->
+    
+<meta name="title" content="Estate Agents in Colchester | Letting Agents Colchester - Michaels Property" /><title>
+	Estate Agents in Colchester | Letting Agents Colchester - Michaels Property
+</title><link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet" /><link href="/v2/assets/vendors/fontawesome/css/font-awesome.min.css" type="text/css" rel="stylesheet" /><link href="/v2/assets/vendors/bootstrap/bootstrap.min.css" rel="stylesheet" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/css/bootstrap-select.min.css" /><link rel="stylesheet" type="text/css" href="/v2/assets/vendors/slick/slick.css" /><link href="/v2/assets/resources/styles/style-v2.css?v=54568" rel="stylesheet" /><link href="/v2/assets/vendors/slick-nav/slicknav.min.css" rel="stylesheet" type="text/css" /><link href="/v2/assets/vendors/lightslider/css/lightslider.min.css" rel="stylesheet" /><link href="/v2/assets/vendors/simplebar/simplebar.css" type="text/css" rel="stylesheet" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.4/js/bootstrap-select.min.js"></script>
+    <script type="text/javascript" src="/v2/assets/vendors/slick/slick.min.js"></script>
+    <script src="/v2/assets/vendors/slick-nav/jquery.slicknav.min.js" type="text/javascript"></script>
+    <script src="/v2/assets/vendors/lightslider/js/lightslider.min.js"></script>
+    <script src="/v2/assets/vendors/jscookie/js.cookie.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/v2/assets/vendors/simplebar/simplebar.js"></script>
+    
+    <script src="/v2/assets/resources/scripts/search.js" type="text/javascript"></script>
+    <script>
+        $(document).ready(function () {
+            $('.forsaleNav a').addClass('active');
+        });
+    </script>
+
+    <script type="text/javascript" src="/v2/assets/resources/scripts/core.js?v=34456345"></script>
+</head>
+<body>
+    <form method="post" action="./forsale" id="form" class="reset-this">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAwNDQ4NTA4MGRkmrIAhDRSI+7//8gicOJNI5JuhDliz8tWSZ3jm3S2P2E=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EF99BAEE" />
+        <div id="site-wrapper" class="container">
+            <nav id="mob-menu" style="display: none;">
+                <ul>
+                    <li class="homeNav"><a id="" href="/">Home</a></li>
+                    <li class="branchNav dropdown">
+                        <a href="#" id="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Our Branches</a>
+                        <ul class="dropdown-menu">
+                            <li class="colchesterNav"><a href="/branches/colchester">Colchester</a></li>
+                            <li class="wivenhoeNav"><a href="/branches/wivenhoe">Wivenhoe</a></li>
+                            <li class="braintreeNav"><a href="/branches/braintree">Braintree</a></li>
+                            <li class="halsteadNav"><a href="/branches/halstead">Halstead</a></li>
+                        </ul>
+                    </li>
+                    <li class="forsaleNav"><a id="" href="/property/list/forsale">Property to buy</a></li>
+                    <li class="toletNav"><a id="" href="/property/list/tolet">Property to rent</a></li>
+                    <li class="prestigeNav"><a id="" href="/prestige">Prestige Collection</a></li>
+                    <li class="valuationNav"><a id="" href="/request/valuation">Request a valuation</a></li>
+                    <li class="rentalAssessmentNav"><a id="" href="/request/assessment">Request a rental assessment</a></li>
+                    <li class="testimonialsNav"><a id="" href="/testimonials">Testimonials</a></li>
+                </ul>
+            </nav>
+            <div id="header-wrapper" class="row">
+                <div class="logo col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                    <img class="img-responsive" style="margin-top: 3em;" src="/v2/assets/resources/images/logo.png" />
+                </div>
+                <div style="margin-top: 0.75em;" class="contact-details col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                    <div class="row">
+                        <div class="contact-detail-container col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <p><span class="green">Colchester (Sales)</span> <a href="tel:+441206576999">01206 576 999</a></p>
+                            <p><span class="green">Colchester (Lettings)</span> <a href="tel:+441206572555">01206 572 555</a></p>
+                            <p><a href="mailto:sales@michaelsproperty.co.uk">sales@michaelsproperty.co.uk</a></p>
+                            <p><a href="mailto:lettings@michaelsproperty.co.uk">lettings@michaelsproperty.co.uk</a></p>
+                        </div>
+                        <div class="contact-detail-container col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <p><span class="green">Wivenhoe</span> <a href="tel:+441206820999">01206 820 999</a></p>
+                            <p><a href="mailto:wivenhoe@michaelsproperty.co.uk">wivenhoe@michaelsproperty.co.uk</a></p>
+                            <p><a href="mailto:lettings@michaelsproperty.co.uk">lettings@michaelsproperty.co.uk</a></p>
+                        </div>
+                        <div class="contact-detail-container col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <p><span class="green">Braintree</span> <a href="tel:+441376337400">01376 337 400</a></p>
+                            <p><a href="mailto:braintree@michaelsproperty.co.uk">braintree@michaelsproperty.co.uk</a></p>
+                            <p><a href="mailto:braintreelettings@michaelsproperty.co.uk">braintreelettings@michaelsproperty.co.uk</a></p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="contact-detail-container col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <p><span class="green">Halstead</span> <a href="tel:+441787322799">01787 322 799</a></p>
+                            <p><a href="mailto:halstead@michaelsproperty.co.uk">halstead@michaelsproperty.co.uk</a></p>
+                            <p><a href="mailto:lettings@michaelsproperty.co.uk">lettings@michaelsproperty.co.uk</a></p>
+                        </div>
+                        <div class="contact-detail-container col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <p><span class="green">Michaels Commercial</span> <a href="tel:+441206984644">01206 984 644</a></p>
+                            <p><a href="mailto:info@michaelscommercial.co.uk">info@michaelscommercial.co.uk</a></p>
+                            <p><a href="http://www.michaelscommercial.co.uk">michaelscommercial.co.uk</a></p>
+                        </div>
+                        <div class="contact-detail-container col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <p><span class="green">Michaels Financial</span> <a href="tel:+441206984644">01206 984 644</a></p>
+                            <p><a href="mailto:info@michaelsfinancial.co.uk">info@michaelsfinancial.co.uk</a></p>
+                            <p><a href="http://www.michaelsfinancial.co.uk">michaelsfinancial.co.uk</a></p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-xs-12 col-md-12 col-lg-12">
+                            <h3 style="margin-top: 1.3em; color: #fff; font-size: 22px;">Discover the <span style="color: #bfd730;">highest of standards</span> in property marketing &amp; customer service.</h3>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div id="nav" class="col-md-12 hidden-sm hidden-xs">
+                        <nav class="navbar">
+                            <div class="collapse navbar-collapse">
+                                <ul class="nav navbar-nav">
+                                    <li class="homeNav"><a id="nav-home" href="/">Home</a></li>
+                                    <li class="dropdown branchNav">
+                                        <a href="#" id="nav-branches" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Our Branches</a>
+                                        <ul class="dropdown-menu">
+                                            <li class="colchesterNav"><a href="/branches/colchester">Colchester</a></li>
+                                            <li class="wivenhoeNav"><a href="/branches/wivenhoe">Wivenhoe</a></li>
+                                            <li class="braintreeNav"><a href="/branches/braintree">Braintree &amp; Witham</a></li>
+                                            <li class="halsteadNav"><a href="/branches/halstead">Halstead</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="forsaleNav"><a id="nav-buy" href="/property/list/forsale">Property to buy</a></li>
+                                    <li class="toletNav"><a id="nav-rent" href="/property/list/tolet">Property to rent</a></li>
+                                    <li class="prestigeNav"><a id="nav-prestige" href="/prestige">Prestige Collection</a></li>
+                                    <li class="valuationNav"><a id="nav-valuation" href="/request/valuation">Request a valuation</a></li>
+                                    <li class="rentalAssessmentNav"><a id="nav-assessment" href="/request/assessment">Request a rental assessment</a></li>
+                                    <li class="testimonialsNav"><a id="nav-testimonials" href="/testimonials">Testimonials</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+
+
+            </div>
+            <div class="container" id="main">
+                
+    <div class="row">
+        <div id="l-side" class="col-xs-12 col-sm-12 col-md-3">
+            <div id="quick-search" style="margin-top: 10px;" class="row">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="form-group">
+                        <label for="input-location">Location</label>
+                        <input type="text" id="input-location" value="" class="form-control" />
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="form-group">
+                        <label for="select-type">Property Type</label>
+                        <select id="select-type" class="selectpicker">
+                            <option  value="">Any</option>
+                            <option  value="Houses">Houses</option>
+                            <option  value="Flats">Flats</option>
+                            <option  value="Apartments">Apartments</option>
+                            <option  value="Bungalows">Bungalows</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="form-group">
+                        <label for="select-minbeds">Min. Beds</label>
+                        <select id="select-minbeds" class="selectpicker">
+                            <option  value="">No min</option>
+                            <option  value="1">1</option>
+                            <option  value="2">2</option>
+                            <option  value="3">3</option>
+                            <option  value="4">4</option>
+                            <option  value="5">5</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="form-group">
+                        <label for="select-minprice">Min. Price</label>
+                        <select id="select-minprice" class="selectpicker">
+                            <option  value="">No min</option>
+                            <option  value="50000">50,000</option>
+                            <option  value="60000">60,000</option>
+                            <option  value="70000">70,000</option>
+                            <option  value="80000">80,000</option>
+                            <option  value="90000">90,000</option>
+                            <option  value="100000">100,000</option>
+                            <option  value="110000">110,000</option>
+                            <option  value="120000">120,000</option>
+                            <option  value="125000">125,000</option>
+                            <option  value="130000">130,000</option>
+                            <option  value="140000">140,000</option>
+                            <option  value="150000">150,000</option>
+                            <option  value="160000">160,000</option>
+                            <option  value="170000">170,000</option>
+                            <option  value="175000">175,000</option>
+                            <option  value="180000">180,000</option>
+                            <option  value="190000">190,000</option>
+                            <option  value="200000">200,000</option>
+                            <option  value="210000">210,000</option>
+                            <option  value="220000">220,000</option>
+                            <option  value="230000">230,000</option>
+                            <option  value="240000">240,000</option>
+                            <option  value="250000">250,000</option>
+                            <option  value="260000">260,000</option>
+                            <option  value="270000">270,000</option>
+                            <option  value="280000">280,000</option>
+                            <option  value="290000">290,000</option>
+                            <option  value="300000">300,000</option>
+                            <option  value="325000">325,000</option>
+                            <option  value="350000">350,000</option>
+                            <option  value="375000">375,000</option>
+                            <option  value="400000">400,000</option>
+                            <option  value="425000">425,000</option>
+                            <option  value="450000">450,000</option>
+                            <option  value="475000">475,000</option>
+                            <option  value="500000">500,000</option>
+                            <option  value="550000">550,000</option>
+                            <option  value="600000">600,000</option>
+                            <option  value="650000">650,000</option>
+                            <option  value="700000">700,000</option>
+                            <option  value="800000">800,000</option>
+                            <option  value="900000">900,000</option>
+                            <option  value="1000000">1,000,000</option>
+                            <option  value="1250000">1,250,000</option>
+                            <option  value="1500000">1,500,000</option>
+                            <option  value="1750000">1,750,000</option>
+                            <option  value="2000000">2,000,000</option>
+                            <option  value="2500000">2,500,000</option>
+                            <option  value="3000000">3,000,000</option>
+                            <option  value="4000000">4,000,000</option>
+                            <option  value="5000000">5,000,000</option>
+                            <option  value="7500000">7,500,000</option>
+                            <option  value="10000000">10,000,000</option>
+                            <option  value="15000000">15,000,000</option>
+                            <option  value="20000000">20,000,000</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="form-group">
+                        <label for="select-maxprice">Max. Price</label>
+                        <select id="select-maxprice" class="selectpicker">
+                            <option  value="">No max</option>
+                            <option  value="50000">50,000</option>
+                            <option  value="60000">60,000</option>
+                            <option  value="70000">70,000</option>
+                            <option  value="80000">80,000</option>
+                            <option  value="90000">90,000</option>
+                            <option  value="100000">100,000</option>
+                            <option  value="110000">110,000</option>
+                            <option  value="120000">120,000</option>
+                            <option  value="125000">125,000</option>
+                            <option  value="130000">130,000</option>
+                            <option  value="140000">140,000</option>
+                            <option  value="150000">150,000</option>
+                            <option  value="160000">160,000</option>
+                            <option  value="170000">170,000</option>
+                            <option  value="175000">175,000</option>
+                            <option  value="180000">180,000</option>
+                            <option  value="190000">190,000</option>
+                            <option  value="200000">200,000</option>
+                            <option  value="210000">210,000</option>
+                            <option  value="220000">220,000</option>
+                            <option  value="230000">230,000</option>
+                            <option  value="240000">240,000</option>
+                            <option  value="250000">250,000</option>
+                            <option  value="260000">260,000</option>
+                            <option  value="270000">270,000</option>
+                            <option  value="280000">280,000</option>
+                            <option  value="290000">290,000</option>
+                            <option  value="300000">300,000</option>
+                            <option  value="325000">325,000</option>
+                            <option  value="350000">350,000</option>
+                            <option  value="375000">375,000</option>
+                            <option  value="400000">400,000</option>
+                            <option  value="425000">425,000</option>
+                            <option  value="450000">450,000</option>
+                            <option  value="475000">475,000</option>
+                            <option  value="500000">500,000</option>
+                            <option  value="550000">550,000</option>
+                            <option  value="600000">600,000</option>
+                            <option  value="650000">650,000</option>
+                            <option  value="700000">700,000</option>
+                            <option  value="800000">800,000</option>
+                            <option  value="900000">900,000</option>
+                            <option  value="1000000">1,000,000</option>
+                            <option  value="1250000">1,250,000</option>
+                            <option  value="1500000">1,500,000</option>
+                            <option  value="1750000">1,750,000</option>
+                            <option  value="2000000">2,000,000</option>
+                            <option  value="2500000">2,500,000</option>
+                            <option  value="3000000">3,000,000</option>
+                            <option  value="4000000">4,000,000</option>
+                            <option  value="5000000">5,000,000</option>
+                            <option  value="7500000">7,500,000</option>
+                            <option  value="10000000">10,000,000</option>
+                            <option  value="15000000">15,000,000</option>
+                            <option  value="20000000">20,000,000</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="form-group">
+                        <label for="select-sort">Sort by</label>
+                        <select id="select-sort" class="selectpicker">
+                            <option  value="lth">Price Low to High</option>
+                            <option  value="htl">Price High to Low</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="form-group">
+                        <label style="margin-right:10px;" for="select-sort">Show Sold STC</label>
+                        <input id="chk-showstc" type="checkbox"  />
+                    </div>
+                </div>
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="form-group">
+                        <label style="opacity: 0;">.</label>
+                        <a class="btn btn-block btn-primary" id="btnSearchForSale">Search</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="">
+                <a href="http://valuation.michaelsproperty.co.uk/" target="_blank">
+                    <img src="/v2/assets/resources/images/valuation.png" class="img-responsive" />
+                </a>
+            </div>
+        </div>
+        <div id="r-side" class="col-xs-12 col-sm-12 col-md-9">
+            <div class="">
+                <h4>Search Results</h4>
+            </div>
+            <div id="property-result-list" class="row">
+                
+                <div class="property-result-container  col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <a href="/property/view/forsale/26252756">
+                        <div class="p-r-img lr-no-pad col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <div style="background-image: url('https://docs.rezi.cloud/6syXpICHkVZ8aaqrgvQbwmbE5lFTIqnE3j74C3ysukM%3d/28283294.jpg?v=00000000025fd587&height=193'); width: 100%; height: 193px; background-size: cover;"></div>
+                            
+
+                            
+                        </div>
+                        <div class="p-r-info col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><span style="color: #bfd730">£4,250,000</span> </p>
+                                </div>
+                                <div class="col-md-6">
+                                    
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p>Lodge Lane, Ardleigh, Colchester</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                    
+                                    <ul class="property-points prestige">
+                                        
+                                        <li>Approaching 10,000 Sqft (Circa.) Of Internal Accommodation</li>
+                                        
+                                        <li>Boasting A Scenic Plot Of Approximately 16 Acres</li>
+                                        
+                                        <li>Overlooking Ardleigh Reservoir</li>
+                                        
+                                        <li>Six Bedroom Residence</li>
+                                        
+                                        <li>Eight Bathrooms</li>
+                                        
+                                        <li>A Reimagined Barn & Entertainment Complex</li>
+                                        
+                                        <li>Three Self-Contained Annexes (x2 Ground Level & One Studio Above Cart Lodge)</li>
+                                        
+                                        <li>Heated Pool House & Outdoor Kitchen</li>
+                                        
+                                        <li>Multi-Use Court, Five-A-Side Pitch, Shooting Lodge</li>
+                                        
+                                        <li>Meticulously Landscaped Gardens</li>
+                                        
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="property-result-container  col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <a href="/property/view/forsale/25905127">
+                        <div class="p-r-img lr-no-pad col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <div style="background-image: url('https://docs.rezi.cloud/TzGhzYYiccl0iQbVpZ8l9qU6hONIIUz375tH6lOV2GA%3d/34111465.jpg?v=0000000002282e9a&height=193'); width: 100%; height: 193px; background-size: cover;"></div>
+                            
+
+                            
+                        </div>
+                        <div class="p-r-info col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><span style="color: #bfd730">£1,250,000</span> </p>
+                                </div>
+                                <div class="col-md-6">
+                                    
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p>Thaxted Road, , Saffron Walden</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="property-result-container is-prestige col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <a href="/property/view/forsale/25967010">
+                        <div class="p-r-img lr-no-pad col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <div style="background-image: url('&height=193'); width: 100%; height: 193px; background-size: cover;"></div>
+                            
+
+                            
+                        </div>
+                        <div class="p-r-info col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><span style="color: #c5aa02">£1,250,000</span> </p>
+                                </div>
+                                <div class="col-md-6">
+                                    
+                                    <div class="col-md-10 pull-right">
+                                        <img class="img-responsive" src="/v2/assets/resources/images/prestige_logo-sm.png" />
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p>Clacton Road, Elmstead, Colchester</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                    
+                                    <ul class="property-points prestige">
+                                        
+                                        <li>Eight Bedrooms</li>
+                                        
+                                        <li>Six Bathrooms</li>
+                                        
+                                        <li>Double and Single Garages</li>
+                                        
+                                        <li>37ft Studio</li>
+                                        
+                                        <li>Integrated Annex Space</li>
+                                        
+                                        <li>Generous Plot And Gardens</li>
+                                        
+                                        <li>Horseshoe Driveway</li>
+                                        
+                                        <li>Village Location</li>
+                                        
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="property-result-container  col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <a href="/property/view/forsale/27317713">
+                        <div class="p-r-img lr-no-pad col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <div style="background-image: url('https://docs.rezi.cloud/Fk4jZ0YORejQ%2f9zRM%2bjqr7aUZCxr9pkzLhlSNu5Qwy8%3d/41038316.jpg?v=00000000030cc3cc&height=193'); width: 100%; height: 193px; background-size: cover;"></div>
+                            
+
+                            
+                        </div>
+                        <div class="p-r-info col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><span style="color: #bfd730">£1,000,000</span> Offers In Excess of</p>
+                                </div>
+                                <div class="col-md-6">
+                                    
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p>Ravens Green, Little Bentley, Colchester</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                    
+                                    <ul class="property-points prestige">
+                                        
+                                        <li>Extended Five Bedroom Family Home</li>
+                                        
+                                        <li>Garage & Workshop</li>
+                                        
+                                        <li>Four Reception Rooms</li>
+                                        
+                                        <li>Two En Suite Bathrooms, Ground Floor Shower Room & First Floor Bathroom</li>
+                                        
+                                        <li>Dressing Room & En Suite To The Master Bedroom</li>
+                                        
+                                        <li>Potential For Ground Floor Living</li>
+                                        
+                                        <li>Out Buildings</li>
+                                        
+                                        <li>Former Public House</li>
+                                        
+                                        <li>One Acre Plot</li>
+                                        
+                                        <li>Fibre Optic Broadband Connected</li>
+                                        
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="property-result-container  col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <a href="/property/view/forsale/26825180">
+                        <div class="p-r-img lr-no-pad col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <div style="background-image: url('https://docs.rezi.cloud/%2b2KTjhl%2fZpPCJnDbk0AmdtVUItRPkGU%2fyqdmqHYgu8g%3d/34860187.jpg?v=0000000002b21aa7&height=193'); width: 100%; height: 193px; background-size: cover;"></div>
+                            
+
+                            
+                        </div>
+                        <div class="p-r-info col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><span style="color: #bfd730">£975,000</span> Guide Price </p>
+                                </div>
+                                <div class="col-md-6">
+                                    
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p>Mill Lane, Bradfield, Manningtree</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                    
+                                    <ul class="property-points prestige">
+                                        
+                                        <li>Residing In The Heart Of The North-Essex Countryside</li>
+                                        
+                                        <li>A Truly Remarkable Three Bedroom Detached Grand Residence Boasting 2085 SQFT.</li>
+                                        
+                                        <li>Highest Of Specifications & Attention To Detail Considered Throughout</li>
+                                        
+                                        <li>Commanding An Incredible Plot Of 0.7 Acres</li>
+                                        
+                                        <li>Rolling Countryside & Woodland Views</li>
+                                        
+                                        <li>Master Suite With Walk-In Dressing Room & Luxury En-Suite</li>
+                                        
+                                        <li>Two Further Generous Double Bedrooms & En-Suite Shower/Bathroom</li>
+                                        
+                                        <li>Focal Kitchen/Living Area Complete With Shaker Style Kitchen</li>
+                                        
+                                        <li>Underfloor Heating</li>
+                                        
+                                        <li>Breathtaking Well-Manicured Rear Garden</li>
+                                        
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="property-result-container  col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <a href="/property/view/forsale/26488498">
+                        <div class="p-r-img lr-no-pad col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <div style="background-image: url('https://docs.rezi.cloud/JpnliSKEdSetZYoMiIW3RSN0X7yAPdf6qbq7%2f3ft5IA%3d/37172527.JPG?v=0000000002888f8f&height=193'); width: 100%; height: 193px; background-size: cover;"></div>
+                            
+
+                            
+                        </div>
+                        <div class="p-r-info col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><span style="color: #bfd730">£975,000</span> </p>
+                                </div>
+                                <div class="col-md-6">
+                                    
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p>Clacton Road, Elmstead, Colchester</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                    
+                                    <ul class="property-points prestige">
+                                        
+                                        <li>Detached Family Home</li>
+                                        
+                                        <li>Five Double Bedrooms</li>
+                                        
+                                        <li>Heated Swimming Pool, Outside BBQ &  Meadow</li>
+                                        
+                                        <li>Ample Off Road Parking & Car Port</li>
+                                        
+                                        <li>Dining Room, Lounge, Games Room, Snug</li>
+                                        
+                                        <li>Extended & Improved Throughout</li>
+                                        
+                                        <li>Underfloor Heating</li>
+                                        
+                                        <li>Bi-Fold Doors To Garden</li>
+                                        
+                                        <li>En-Suite & Bathroom</li>
+                                        
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="property-result-container  col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <a href="/property/view/forsale/26757917">
+                        <div class="p-r-img lr-no-pad col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <div style="background-image: url('https://docs.rezi.cloud/vXwphmPxo6zw78QT1AMfBqVZnJTwKcisV3Uk30RIbFI%3d/38271323.JPG?v=0000000002a93e2e&height=193'); width: 100%; height: 193px; background-size: cover;"></div>
+                            
+
+                            
+                        </div>
+                        <div class="p-r-info col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><span style="color: #bfd730">£895,000</span> Guide Price</p>
+                                </div>
+                                <div class="col-md-6">
+                                    
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p> Well Close Square, Framlingham, Woodbridge</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                    
+                                    <ul class="property-points prestige">
+                                        
+                                        <li>A Stunning Conversion Of A 17th Century Public House</li>
+                                        
+                                        <li>Boasting Eight Bedrooms</li>
+                                        
+                                        <li>Complete With Four Bathrooms</li>
+                                        
+                                        <li>Located in The Heart Of Framlingham, Suffolk</li>
+                                        
+                                        <li>Showcasing The Perfect Blend Of Period Charm With Contemporary Finishes</li>
+                                        
+                                        <li>Versatile Reception Space</li>
+                                        
+                                        <li>Complete With Enviable High Specifications</li>
+                                        
+                                        <li>Benefitting From A Wealth Of Off Road Parking</li>
+                                        
+                                        <li>Well-Manicured & Landscaped Private Rear Garden</li>
+                                        
+                                        <li>Offered To Market On A Chain Free Basis!</li>
+                                        
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="property-result-container  col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <a href="/property/view/forsale/26107785">
+                        <div class="p-r-img lr-no-pad col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <div style="background-image: url('https://docs.rezi.cloud/v8U1iJHkS2SXnXLgZnaA8OHiOOczZ3zfIteSjv%2fMdK0%3d/39919615.jpg?v=0000000002e70583&height=193'); width: 100%; height: 193px; background-size: cover;"></div>
+                            
+
+                            
+                        </div>
+                        <div class="p-r-info col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><span style="color: #bfd730">£885,000</span> </p>
+                                </div>
+                                <div class="col-md-6">
+                                    
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p>St Peters in the Field, , Braintree</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                    
+                                    <ul class="property-points prestige">
+                                        
+                                        <li>Six Bedroom Detached House</li>
+                                        
+                                        <li>3500Sqft Of Accommodation</li>
+                                        
+                                        <li>Extremely Sought After Private Road</li>
+                                        
+                                        <li>Multiple Reception Rooms</li>
+                                        
+                                        <li>Underfloor Heating</li>
+                                        
+                                        <li>No Onward Chain</li>
+                                        
+                                        <li>Garage & Ample Off Street Parking</li>
+                                        
+                                        <li>Generous Unoverlooked Plot</li>
+                                        
+                                        <li>Three Bathrooms</li>
+                                        
+                                        <li>Large Orangery</li>
+                                        
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="property-result-container  col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <a href="/property/view/forsale/24970254">
+                        <div class="p-r-img lr-no-pad col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <div style="background-image: url('https://docs.rezi.cloud/fAaoz8%2bmsKxNdipkvoATbCbcssPsPt4SbVNQP9Dv3u4%3d/39300408.jpg?v=0000000002cc0c6e&height=193'); width: 100%; height: 193px; background-size: cover;"></div>
+                            
+
+                            
+                        </div>
+                        <div class="p-r-info col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><span style="color: #bfd730">£875,000</span> </p>
+                                </div>
+                                <div class="col-md-6">
+                                    
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p>Croquet Gardens, Wivenhoe, Colchester</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                    
+                                    <ul class="property-points prestige">
+                                        
+                                        <li>Detached Family Home</li>
+                                        
+                                        <li>Off Road Parking & Double Garage</li>
+                                        
+                                        <li>Bespoke Shutters</li>
+                                        
+                                        <li>Under Stairs Wine Storage Feature</li>
+                                        
+                                        <li>Kitchen & Utility Room</li>
+                                        
+                                        <li>Home Office</li>
+                                        
+                                        <li>23' Living Room</li>
+                                        
+                                        <li>23' Conservatory/Dining Room</li>
+                                        
+                                        <li>Large South Facing Garden With Well Designed Borders</li>
+                                        
+                                        <li>Bespoke High Quality Wardrobes</li>
+                                        
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="property-result-container  col-lg-12 col-md-12 col-xs-12 col-sm-12">
+                    <a href="/property/view/forsale/27380667">
+                        <div class="p-r-img lr-no-pad col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <div style="background-image: url('https://docs.rezi.cloud/GPMzkLjTHQt%2fDGyFT1EM%2fLG5giYW6avnoeDTvzIFwBc%3d/41226545.jpg?v=00000000031275a3&height=193'); width: 100%; height: 193px; background-size: cover;"></div>
+                            
+
+                            
+                        </div>
+                        <div class="p-r-info col-sm-12 col-xs-12 col-md-8 col-lg-8">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p><span style="color: #bfd730">£865,000</span> </p>
+                                </div>
+                                <div class="col-md-6">
+                                    
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p>Rectory Road, Sible Hedingham, Halstead</p>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12">
+
+                                    
+                                    <ul class="property-points prestige">
+                                        
+                                        <li>No Onward Chain</li>
+                                        
+                                        <li>Stunning And Unique Conversion</li>
+                                        
+                                        <li>Flexible And Spacious Accommodation</li>
+                                        
+                                        <li>Generous Private 0.65 Acre Plot</li>
+                                        
+                                        <li>Four/Five Generously Sized Bedrooms</li>
+                                        
+                                        <li>Stunning Living Qaurters</li>
+                                        
+                                        <li>Easily Split Into Two Separate Living Qaurters</li>
+                                        
+                                        <li>Three Bathrooms</li>
+                                        
+                                        <li>Large Detached Garage Building/Worksho</li>
+                                        
+                                        <li>Driveway Providing Ample Parking (Up To 10 Cars)</li>
+                                        
+                                    </ul>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+            </div>
+            <div id="paging" class="row">
+                <ul>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=1&sort=" class="page-number current-page">
+                            1
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=2&sort=" class="page-number ">
+                            2
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=3&sort=" class="page-number ">
+                            3
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=4&sort=" class="page-number ">
+                            4
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=5&sort=" class="page-number ">
+                            5
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=6&sort=" class="page-number ">
+                            6
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=7&sort=" class="page-number ">
+                            7
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=8&sort=" class="page-number ">
+                            8
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=9&sort=" class="page-number ">
+                            9
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=10&sort=" class="page-number ">
+                            10
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=11&sort=" class="page-number ">
+                            11
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=12&sort=" class="page-number ">
+                            12
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=13&sort=" class="page-number ">
+                            13
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=14&sort=" class="page-number ">
+                            14
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=15&sort=" class="page-number ">
+                            15
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=16&sort=" class="page-number ">
+                            16
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=17&sort=" class="page-number ">
+                            17
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=18&sort=" class="page-number ">
+                            18
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=19&sort=" class="page-number ">
+                            19
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=20&sort=" class="page-number ">
+                            20
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=21&sort=" class="page-number ">
+                            21
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=22&sort=" class="page-number ">
+                            22
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=23&sort=" class="page-number ">
+                            23
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=24&sort=" class="page-number ">
+                            24
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=25&sort=" class="page-number ">
+                            25
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=26&sort=" class="page-number ">
+                            26
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=27&sort=" class="page-number ">
+                            27
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=28&sort=" class="page-number ">
+                            28
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=29&sort=" class="page-number ">
+                            29
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=30&sort=" class="page-number ">
+                            30
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=31&sort=" class="page-number ">
+                            31
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=32&sort=" class="page-number ">
+                            32
+                        </a>
+                    </li>
+                    
+                    <li>
+                        <a href="/property/list/forsale?location=&type=&beds=&min=&max=&page=33&sort=" class="page-number ">
+                            33
+                        </a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+
+            </div>
+        </div>
+        <div class="sticky-footer">
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4">
+                    <a class="btn btn-primary btn-block" href="http://valuation.michaelsproperty.co.uk/" target="_blank" style="color: black">Click here for a free online valuation</a>
+                </div>
+            </div>
+        </div>
+        <div id="footer" class="row container">
+            <div id="footer-wrapper" class="" style="margin-top: 1em;">
+                <div class="logo col-sm-12 col-xs-12 col-md-3 col-lg-3">
+                    <img class="img-responsive" src="/v2/assets/resources/images/logo.png" />
+                    <img style="margin-top: 1em;" class="img-responsive" src="/v2/assets/resources/images/tpo_tsi_logos.jpg" />
+                </div>
+                <div class="quick-links col-sm-12 col-xs-12 col-md-9 col-lg-9">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <h4>Quick Links</h4>
+                        </div>
+                        <div class="col-md-4">
+                            <h4>Legal Information</h4>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="footer-links col-sm-12 col-xs-12 col-md-2 col-lg-2">
+                            <a href="/">Home</a>
+                            <a href="/property/list/forsale">Property to buy</a>
+                            <a href="/property/list/tolet">Property to rent</a>
+                        </div>
+                        <div class="footer-links col-sm-12 col-xs-12 col-md-2 col-lg-2">
+                            <a href="/prestige">Prestige collection</a>
+                            <a href="/request/valuation">Request a valuation</a>
+                        </div>
+                        <div class="footer-links col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <a href="/testimonials">Testimonials</a>
+                            <a href="/privacy-policy">Privacy Policy</a>
+                            <a href="/request/assessment">Request a rental assesment</a>
+                            <a target="_blank" href="/v2/assets/resources/docs/icp.pdf">Complaints Procedure (ICP)</a>
+                            <a target="_blank" href="/v2/assets/resources/docs/CMP.pdf">Client Money Protection Scheme (CMP)</a>
+                        </div>
+                        <div class="footer-links col-sm-12 col-xs-12 col-md-4 col-lg-4">
+                            <p>Michaels Property Consultants</p>
+                            <p>62 Head St, Colchester CO1 1PB</p>
+                            <p>Registered in England: 8776076</p>
+                            <p>VAT No. 183233712</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </form>
+    <script>
+        $(document).ready(function () {
+            //if (Cookies.get('covid-message-v3-shown') == undefined) {
+            //    $('#covid-modal').modal('show');
+            //    Cookies.set('covid-message-v3-shown', 'true', { expires: 7 })
+            //}
+        });
+    </script>
+</body>
+</html>
